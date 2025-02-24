@@ -1,0 +1,1 @@
+This code uses the mysql_* functions which are deprecated and removed in PHP 7.0 and later versions.  The code attempts to connect to a MySQL database, execute a query and fetch results using these functions. This will cause a fatal error in newer PHP versions.
